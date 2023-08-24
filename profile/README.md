@@ -1,12 +1,15 @@
-## Hi there 👋
+# XtremBET
 
-<!--
+## Predict and Earn with the most controversial news on the internet.
 
-**Here are some ideas to get you started:**
+XtremBET is a platform that provides most controversial news to bet. we're revolutionizing the world of prediction markets by combining traditional methods with the latest in trustless, decentralized, and open source blockchain technology. Our platform allows users to predict outcomes of various events and news stories, from politics and sports to the latest in entertainment and technology.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Join our community today to start predicting and earning!
+
+### How to Join
+
+To join XtremBET, simply follow us on links below:
+
+- Website: https://xtrembet.com/
+- Discord: https://discord.gg/7BWZkZ7vGN
+- Telegram: https://t.me/xtrembet
